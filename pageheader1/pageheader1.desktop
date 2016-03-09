@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=pageheader1
+Exec=pageheader1
+Icon=pageheader1/pageheader1.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
